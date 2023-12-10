@@ -5,9 +5,9 @@ load_dotenv()
 que = {}
 admins = {}
 
-BOT_TOKEN = getenv("BOT_TOKEN", "5631477617:AAFrf8wg07Anl5MpmZj3LMPCEZkJw966hCM")
-BOT_NAME = getenv("BOT_NAME", "Wieuehebot") 
-API_ID = int(getenv("API_ID" 13544181))
-API_HASH = getenv("API_HASH", "1cf5e591506286e82e89e98b2436ebb6")
-BOT_USERNAME = getenv("BOT_USERNAME", "Wieuehebot")
+BOT_TOKEN = getenv("BOT_TOKEN", "6648598150:AAFGZvnVU1pOQlmDDQ-OHUI_KI2NCi0cmBM")
+BOT_NAME = getenv("BOT_NAME", "YoxlanisGameBot") 
+API_ID = int(getenv("API_ID" 29171757))
+API_HASH = getenv("API_HASH", ""f2a2d9619b545d116fc42b5fee5d592e")
+BOT_USERNAME = getenv("BOT_USERNAME", "YoxlanisGameBot")
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Kolgeli:sesiz@cluster0.sgubr8z.mongodb.net/Elmdar?retryWrites=true&w=majority")
